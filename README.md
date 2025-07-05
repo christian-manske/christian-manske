@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
+<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu GitHub!</h1>
  
 ## 📊 Minhas Estatísticas
 

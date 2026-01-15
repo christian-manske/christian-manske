@@ -9,7 +9,7 @@
 
 ## 🎯 Sobre mim
 
-Sou estudante do terceiro ano do Técnico em Desenvolvimento de Sistemas no SENAI Jaraguá do Sul e também aluno no CentroWEG.  
+Técnico em Desenvolvimento de Sistemas no SENAI Jaraguá do Sul e aluno no CentroWEG.  
 Estou na jornada de aprendizado constante, explorando linguagens e ferramentas como Python, HTML, CSS, JavaScript, Java, C, C++ e Git, construindo uma base sólida para criar soluções que fazem a diferença.
 
 ---

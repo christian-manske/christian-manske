@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/christianmanske" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/christianmanske_" target="_blank">
+  <a href="https://instagram.com/__manske" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Siga--me-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
